@@ -2,7 +2,7 @@
 Jupyter notebooks for teaching/learning Python 3 answers
 __________________________________________________________
 
-  1. Strings
+  1. Strings  [[open file]](https://github.com/kalimbet/learn-python3-answers/blob/master/strings.ipynb "")
   2. Numbers
   3. Conditionals
   4. Lists
